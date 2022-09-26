@@ -1,0 +1,48 @@
+.container{
+
+    width: 450px;
+    height: 650px;
+    background-color: rgb(24, 24, 24);
+    margin: auto;
+    border-radius: 10px;
+
+}
+
+#screen{
+    width: 80%;
+    height: 70px;
+    margin-top: 30px;
+    margin-left: 38px;
+    border-radius: 5px;
+    background-color: rgb(90, 163, 94);
+    font-size: 2.5rem;
+    text-align: right;
+}
+
+#clearBtn{
+    margin-left: 79%;
+    width: 60px;
+    height: 55px;
+    background-color: rgb(196, 19, 19);
+    font-size: 150%;
+    border-radius: 5px;
+}
+
+.buttonNumber{
+    width: 60px;
+    height: 55px;
+    margin: 25px;
+    font-size: 150%;
+    border-radius: 5px;
+    
+
+}
+
+.symbols{
+    width: 60px;
+    height: 55px;
+    margin: 10px;
+    background-color: rgb(140, 155, 155);
+    font-size: 150%;
+    border-radius: 5px;
+}
